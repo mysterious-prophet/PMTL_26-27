@@ -8,10 +8,10 @@ Repo for the codes from the PMTL class at FNSPE. Semester: Winter 2026
 ## Teachers
 **Exercises (Cz), Credit Assignments**: doc. Ing. Jaromír Kukal, Ph.D., jaromir.kukal@fjfi.cvut.cz
 
-**Exercises (En), Credit Assignments**: Ing. Matěj Pokorný, pokorm20@fjfi.cvut.cz
+**Exercises (CZ/En), Credit Assignments**: Ing. Matěj Pokorný, pokorm20@fjfi.cvut.cz
 
  
-## Schedule (Exercises (En))
+## Schedule (Exercises (CZ/En))
 
 - 2 exercise/week
   - Wednesdays, 8.00–9.40, T124
